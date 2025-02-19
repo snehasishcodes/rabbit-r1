@@ -6,7 +6,7 @@
 ---
 
 # Live URL
-## [https://rabbit.snehasish.xyz](https://rabbit.snehasish.xyz)
+## [https://r1.snehasish.xyz](https://r1.snehasish.xyz)
 
 ---
 
