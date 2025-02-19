@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useGSAP } from "@gsap/react";
-import Link from "../components/link";
+import Link from "../components/link.jsx";
 import { cn } from "../lib/utils";
 import { Search, Info, ShoppingBag, Bell, MessagesSquare } from "lucide-react";
 import gsap from "gsap";

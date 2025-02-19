@@ -1,6 +1,6 @@
 import { useRef } from "react";
 import { CameraControls, Center, PerspectiveCamera, OrbitControls } from "@react-three/drei";
-import R1Model from "../models/r1";
+import R1Model from "../models/r1.jsx";
 
 export default function Scene() {
     const cameraControlsRef = useRef();

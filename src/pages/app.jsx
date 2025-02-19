@@ -1,6 +1,6 @@
-import Sidebar from "./sidebar";
-import Model from "./model";
-import Rightbar from "./rightbar";
+import Sidebar from "./sidebar.jsx";
+import Model from "./model.jsx";
+import Rightbar from "./rightbar.jsx";
 
 export default function Landing() {
 	return (

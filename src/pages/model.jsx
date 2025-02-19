@@ -1,7 +1,7 @@
 import { Canvas } from "@react-three/fiber";
 import { Suspense } from "react";
-import Loading from "./loading";
-import Scene from "./scene";
+import Loading from "./loading.jsx";
+import Scene from "./scene.jsx";
 
 export default function Model() {
     return (

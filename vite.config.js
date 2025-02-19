@@ -7,4 +7,11 @@ export default defineConfig({
 		"**/*.glb"
 	],
 	plugins: [react()],
+	resolve: {
+		extensions: [".js", ".jsx"],
+	},
+	esbuild: {
+		loader: "jsx",
+		include: /src\/.*\.[tj]sx?$/,
+	}
 });
